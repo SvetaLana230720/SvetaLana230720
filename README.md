@@ -18,7 +18,7 @@ QA-инженер, который внимательно проверяет пр
 
 - Тест-дизайн, тест-кейсы, чек-листы и качественные баг-репорты
 - API-тестирование и SQL
-- Python и инструменты автоматизации тестирования
+- Python, Java и инструменты автоматизации тестирования
 - Git и аккуратная работа с тестовой документацией
 
 ### 🧰 Мой QA-набор
@@ -29,6 +29,7 @@ QA-инженер, который внимательно проверяет пр
   <img src="https://img.shields.io/badge/API-FFB703?style=flat-square" alt="API" />
   <img src="https://img.shields.io/badge/SQL-2D7FF9?style=flat-square" alt="SQL" />
   <img src="https://img.shields.io/badge/Python-%D0%B2%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B8-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python — в изучении" />
+  <img src="https://img.shields.io/badge/Java-%D0%B2%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B8-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java — в изучении" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
@@ -39,7 +40,7 @@ QA-инженер, который внимательно проверяет пр
         ↓
 API и SQL
         ↓
-Python + тестовые фреймворки
+Python и Java + тестовые фреймворки
         ↓
 Автоматизированные проверки и CI/CD
 ```
