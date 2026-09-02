@@ -29,18 +29,15 @@
 
 ### 🧰 Основной стек
 
-**Manual Testing · REST API · Postman · SQL · PostgreSQL · Git · Java · Python**
+**Manual Testing · REST API · Postman · SQL · PostgreSQL · Git · Java**
 
 <details>
 <summary>Подробнее о навыках</summary>
 
-**Testing:** Test Design · API Testing · Bug Reporting · Web Testing · Mobile Testing  
-**API:** REST · HTTP · JSON · Swagger  
-**Tools:** Chrome DevTools · Charles Proxy · Wireshark · Git · JMeter  
-**Databases:** SQL · PostgreSQL  
-**Programming:** Java — изучаю для AQA · Python · Kotlin  
-**Automation:** JUnit · TestNG · Selenium · RestAssured — продолжаю изучать  
-**Technical:** FastAPI · Docker · Gradle · Linux
+**Работаю:** Postman · Chrome DevTools · SQL/PostgreSQL · Git  
+**Знакома:** Charles Proxy · Wireshark · JMeter · Docker · Linux · FastAPI · Gradle · Kotlin  
+**Изучаю для AQA:** Java · JUnit · TestNG · Selenium · RestAssured  
+**Программирование:** Python
 
 </details>
 
