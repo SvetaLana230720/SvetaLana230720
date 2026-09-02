@@ -11,7 +11,9 @@
 
 ## 👋 Привет, я Света
 
-В тестирование я пришла из любопытства: мне интересно разбираться, как устроена система, проверять гипотезы и находить причину, когда что-то идёт не так. Если нахожу баг, мне важен не только сам факт, но и то, как его воспроизвести и где именно всё сломалось.
+**QA Intern / Junior QA · Manual & API Testing · SQL · Learning Java Automation**
+
+В тестирование я пришла из любопытства к тому, как устроены системы. Если нахожу баг, хочу понять, как он воспроизводится и где именно возникает.
 
 <div align="center">
   <img src="assets/frog-at-laptop.gif" width="480" alt="Жабка тестирует за ноутбуком" />
@@ -27,26 +29,24 @@
 
 ### 🧰 Основной стек
 
-**QA:** Manual Testing · Test Design · API Testing  
-**API:** REST · HTTP · JSON · Postman · Swagger  
-**Data:** SQL · PostgreSQL  
-**Tools:** Chrome DevTools · Git  
-**Programming:** Java — изучаю для AQA
+**Manual Testing · REST API · Postman · SQL · PostgreSQL · Git · Java · Python**
 
 <details>
-<summary>Знакома и продолжаю изучать</summary>
+<summary>Подробнее о навыках</summary>
 
-**Automation:** JUnit · TestNG · Selenium · RestAssured  
-**Programming:** Python · Kotlin  
-**Tools & technical:** Charles Proxy · Wireshark · JMeter · FastAPI · Docker · Gradle · Linux
+**Testing:** Test Design · API Testing · Bug Reporting · Web Testing · Mobile Testing  
+**API:** REST · HTTP · JSON · Swagger  
+**Tools:** Chrome DevTools · Charles Proxy · Wireshark · Git · JMeter  
+**Databases:** SQL · PostgreSQL  
+**Programming:** Java — изучаю для AQA · Python · Kotlin  
+**Automation:** JUnit · TestNG · Selenium · RestAssured — продолжаю изучать  
+**Technical:** FastAPI · Docker · Gradle · Linux
 
 </details>
 
 ### 🎯 Сейчас фокус
 
-**API/backend testing → Java → test automation**
-
-Сейчас углубляюсь в API/backend-тестирование и постепенно добавляю автоматизацию на Java.
+**Manual QA → API & SQL → Java → Test Automation**
 
 Здесь собираю учебные проекты, практику и заметки по пути в QA Automation.
 
