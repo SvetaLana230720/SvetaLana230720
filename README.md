@@ -25,14 +25,33 @@
 
 Знаю основы тестирования и техники тест-дизайна, учусь применять их на практике, работаю с REST API. Сейчас изучаю Java и Python и постепенно двигаюсь в сторону автоматизации.
 
-### 📚 Что изучаю сейчас
+### 🧰 Мой стек сейчас
 
-- тест-дизайн и анализ требований;
-- REST API и SQL;
-- Java и Python;
-- автоматизацию тестирования и инструменты вокруг неё.
+<p>
+  <img src="https://img.shields.io/badge/Тест--дизайн-6C63FF?style=flat-square" alt="Тест-дизайн" />
+  <img src="https://img.shields.io/badge/Ручное_тестирование-00BFA6?style=flat-square" alt="Ручное тестирование" />
+  <img src="https://img.shields.io/badge/REST_API-FFB703?style=flat-square" alt="REST API" />
+  <img src="https://img.shields.io/badge/SQL-2D7FF9?style=flat-square" alt="SQL" />
+  <img src="https://img.shields.io/badge/Java-%D0%B2%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B8-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java — в изучении" />
+  <img src="https://img.shields.io/badge/Python-%D0%B2%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B8-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python — в изучении" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
 
-Знать всё невозможно, поэтому я просто стараюсь охватить как можно больше и постепенно углубляться в то, что действительно интересно.
+Мой основной стек сейчас — ручное тестирование, техники тест-дизайна, REST API и SQL. Параллельно изучаю Java и Python, чтобы постепенно перейти к автоматизации.
+
+### 🚀 Мой путь сейчас
+
+```text
+Основы тестирования и ручная практика
+                 ↓
+        REST API и SQL
+                 ↓
+          Java и Python
+                 ↓
+       Автоматизация тестирования
+```
+
+Знать всё невозможно, поэтому я стараюсь охватить как можно больше и постепенно углубляться в то, что действительно интересно.
 
 ### 🎮 Какие проекты мне интересны
 
