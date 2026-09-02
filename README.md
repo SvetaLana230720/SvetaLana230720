@@ -28,7 +28,7 @@
 ### 🧰 Стек
 
 **QA:** Manual Testing · Test Design · REST API · API Testing · Web · Mobile · Client–Server Architecture  
-**Инструменты:** Postman · DevTools · Swagger · Git · JMeter  
+**Инструменты:** Postman · DevTools · Swagger · Charles Proxy · Wireshark · Git · JMeter  
 **Данные:** SQL · PostgreSQL · JSON  
 **Программирование:** Java (уверенная база) · Python · Kotlin  
 **Автоматизация:** JUnit · TestNG · Selenium · RestAssured — углубляюсь в Java AQA  
