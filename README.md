@@ -49,37 +49,12 @@
 
 ### 🧭 Направления
 
-<details>
-<summary>🧪 Manual QA</summary>
-
-**Практика:** web и mobile testing, тест-дизайн, чек-листы, тест-кейсы и баг-репорты.  
-**Отдельно:** REST API через Postman, проверка данных через SQL и работа с DevTools.
-
-</details>
-
-<details>
-<summary>⚙️ Java Automation</summary>
-
-**Фокус:** Java, JUnit, RestAssured, Selenium.  
-**Проекты:** UI- и API-проверки, базовая структура автотестов и постепенный переход к Java AQA.
-
-</details>
-
-<details>
-<summary>🐍 Python Automation</summary>
-
-**Фокус:** Python и автоматизация API/UI-проверок.  
-**Проекты:** небольшие учебные тесты, практика с тестовыми данными и отчётами.
-
-</details>
-
-<details>
-<summary>📊 Performance Testing</summary>
-
-**Фокус:** JMeter.  
-**Проекты:** сценарии нагрузки, количество пользователей, ramp-up, response time, throughput и error rate.
-
-</details>
+| Направление | Что будет внутри |
+|---|---|
+| 🧪 **Manual QA** | Тест-дизайн, чек-листы, тест-кейсы, баг-репорты, API и SQL |
+| ⚙️ **Java Automation** | Java, JUnit, RestAssured, Selenium, UI- и API-проверки |
+| 🐍 **Python Automation** | Python, учебные API/UI-тесты, тестовые данные и отчёты |
+| 📊 **Performance Testing** | JMeter, сценарии нагрузки и анализ результатов |
 
 ### 📫 Контакты
 
