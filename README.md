@@ -6,8 +6,8 @@
   <a href="https://github.com/SvetaLana230720">
     <img src="https://img.shields.io/badge/QA-Engineer-6C63FF?style=for-the-badge&logo=checkmarx&logoColor=white" alt="QA Engineer" />
   </a>
-  <img src="https://img.shields.io/badge/Manual_QA-в%20фокусе-00BFA6?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Manual QA" />
-  <img src="https://img.shields.io/badge/Automation-в%20развитии-FFB703?style=for-the-badge&logo=robotframework&logoColor=white" alt="Automation in progress" />
+  <img src="https://img.shields.io/badge/Manual_QA-00BFA6?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Manual QA" />
+  <img src="https://img.shields.io/badge/Automation-FFB703?style=for-the-badge&logo=robotframework&logoColor=white" alt="Automation" />
 </div>
 
 ## 👋 Привет! Я Света
