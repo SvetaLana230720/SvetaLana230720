@@ -4,9 +4,9 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Manual_QA-00BFA6?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Manual QA" />
-  <img src="https://img.shields.io/badge/REST_API-6C63FF?style=for-the-badge" alt="REST API" />
+  <img src="https://img.shields.io/badge/API_Testing-6C63FF?style=for-the-badge" alt="API Testing" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
 
 ## 👋 Привет, я Света
@@ -27,13 +27,20 @@
 
 ### 🧰 Основной стек
 
-**Testing:** Manual Testing · Test Design · API Testing · Web Testing · Mobile Testing · Client–Server Architecture  
+**QA:** Manual Testing · Test Design · API Testing  
 **API:** REST · HTTP · JSON · Postman · Swagger  
-**Databases:** SQL · PostgreSQL  
-**Tools:** Chrome DevTools · Charles Proxy · Wireshark · Git · JMeter  
-**Programming:** Java (уверенная база) · Python · Kotlin  
-**Automation:** JUnit · TestNG · Selenium · RestAssured — продолжаю углубляться в Java AQA  
-**Technical:** FastAPI · Docker · Gradle · Linux
+**Data:** SQL · PostgreSQL  
+**Tools:** Chrome DevTools · Git  
+**Programming:** Java — изучаю для AQA
+
+<details>
+<summary>Знакома и продолжаю изучать</summary>
+
+**Automation:** JUnit · TestNG · Selenium · RestAssured  
+**Programming:** Python · Kotlin  
+**Tools & technical:** Charles Proxy · Wireshark · JMeter · FastAPI · Docker · Gradle · Linux
+
+</details>
 
 ### 🎯 Сейчас фокус
 
