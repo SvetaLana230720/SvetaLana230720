@@ -47,6 +47,11 @@
 
 Здесь собираю учебные проекты, практику и заметки по пути в QA Automation.
 
+### 📫 Контакты
+
+- Telegram: [@lanaAbr](https://t.me/lanaAbr)
+- Email: [lana.abramova.02@mail.ru](mailto:lana.abramova.02@mail.ru)
+
 <div align="center">
   <i>Разбираюсь, проверяю, учусь ✨</i>
 </div>
