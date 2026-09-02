@@ -25,19 +25,14 @@
 
 Знаю основы тестирования и техники тест-дизайна, учусь применять их на практике, работаю с REST API. Сейчас изучаю Java и Python и постепенно двигаюсь в сторону автоматизации.
 
-### 🧰 Основной стек
+### 🧰 Стек
 
-**QA / Testing:** Manual Testing · Test Design · REST API · API Testing · Web Testing · Mobile Testing · Client–Server Architecture
-
-**Tools:** Postman · DevTools · Swagger · Git · JMeter
-
-**Databases:** SQL · PostgreSQL
-
-**Programming:** Java (уверенная база) · Python · Kotlin
-
-**Test Automation:** JUnit · TestNG · Selenium — продолжаю углубляться в Java AQA
-
-**Backend / Technical background:** REST · JSON · FastAPI · Docker · Gradle · Linux
+**QA:** Manual Testing · Test Design · REST API · API Testing · Web · Mobile · Client–Server Architecture  
+**Инструменты:** Postman · DevTools · Swagger · Git · JMeter  
+**Данные:** SQL · PostgreSQL · JSON  
+**Программирование:** Java (уверенная база) · Python · Kotlin  
+**Автоматизация:** JUnit · TestNG · Selenium · RestAssured — углубляюсь в Java AQA  
+**Техническая база:** FastAPI · Docker · Gradle · Linux
 
 ### 🚀 Мой путь сейчас
 
