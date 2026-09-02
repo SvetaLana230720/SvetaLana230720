@@ -52,8 +52,8 @@
 | Направление | Что будет внутри |
 |---|---|
 | 🧪 **Manual QA** | Тест-дизайн, чек-листы, тест-кейсы, баг-репорты, API и SQL |
-| ⚙️ **Java Automation** | Java, JUnit, RestAssured, Selenium, UI- и API-проверки |
-| 🐍 **Python Automation** | Python, учебные API/UI-тесты, тестовые данные и отчёты |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="20" alt="Java" /> **Java Automation** | Java, JUnit, RestAssured, Selenium, UI- и API-проверки |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20" alt="Python" /> **Python Automation** | Python, учебные API/UI-тесты, тестовые данные и отчёты |
 | 📊 **Performance Testing** | JMeter, сценарии нагрузки и анализ результатов |
 
 ### 📫 Контакты
